@@ -1,4 +1,0 @@
-Cognos
-======
-
-Cognos
